@@ -18,6 +18,7 @@ Visual Studio Code
 ## PROGRAM:
 
 ### APP.JS
+``
 java
 import React, { useState } from 'react';
 import './App.css';
@@ -74,9 +75,9 @@ function App() {
 }
 
 export default App;
-
+``
 ### APP.CSS:
-
+```
 java
 .App {
   text-align: center;
@@ -105,6 +106,7 @@ input[type='text'] {
   font-size: 16px;
   cursor: pointer;
 }
+```
 
 ## OUTPUT:
 
@@ -119,5 +121,4 @@ input[type='text'] {
 <img width="325" alt="image" src="https://github.com/Monisha-11/SIMPLE-CALCULATOR-USING-REACT-JS/assets/93427240/55fb6cf8-e0ec-4e88-bc2c-6765fa5459cd">
 
 ## RESULT:
-
 Thus the simple calculator using react js.
